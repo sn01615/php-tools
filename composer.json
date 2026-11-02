@@ -1,6 +1,6 @@
 {
   "name": "fold/php-tools",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "system",
   "autoload": {
     "psr-4": {
