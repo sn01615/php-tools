@@ -1,5 +1,7 @@
 <?php
 
+namespace Fold\PhpTools\AES;
+
 class AES256CBC
 {
 

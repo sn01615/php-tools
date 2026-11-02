@@ -1,5 +1,7 @@
 <?php
 
+namespace Fold\PhpTools\RSA;
+
 class RSA
 {
 
