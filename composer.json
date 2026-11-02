@@ -1,0 +1,10 @@
+{
+  "name": "fold/php-tools",
+  "version": "1.0.0",
+  "description": "system",
+  "autoload": {
+    "psr-4": {
+      "Fold\\PhpTools\\": "src/"
+    }
+  }
+}
